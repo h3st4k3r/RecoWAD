@@ -4,6 +4,15 @@
 **Version:** 0.3.0  
 **Purpose:** Initial Windows and Active Directory reconnaissance from Kali Linux.
 
+```
+ ____                 __        ___    ____
+|  _ \ ___  ___ ___   \ \      / / \  |  _ \\
+| |_) / _ \/ __/ _ \   \ \ /\ / / _ \ | | | |
+|  _ <  __/ (_| (_) |   \ V  V / ___ \| |_| |
+|_| \_\___|\___\___/     \_/\_/_/   \_\____/${reset}
+
+```
+
 `recowad.sh` automates the initial collection phase against one or more Windows or Active Directory hosts, ranges, or networks.
 
 ## What it collects
