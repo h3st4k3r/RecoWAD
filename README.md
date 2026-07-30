@@ -4,6 +4,12 @@
 **Version:** 0.2.0  
 **Purpose:** Initial Windows and Active Directory reconnaissance from Kali Linux.
 
+ __        ___       ____
+ \ \      / (_)_ __ |  _ \ ___  ___ ___  _ __
+  \ \ /\ / /| | '_ \| |_) / _ \/ __/ _ \|  _  \
+   \ V  V / | | | | |  _ <  __/ (_| (_) | | | |
+    \_/\_/  |_|_| |_|_| \_\___|\___\___/|_| |_| by h3st4k3r
+
 `winrecon.sh` automates the initial collection phase against one or more Windows or Active Directory hosts, ranges, or networks.
 
 ## What it collects
